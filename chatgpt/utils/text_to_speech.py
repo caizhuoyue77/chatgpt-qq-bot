@@ -23,7 +23,7 @@ class VoiceType(Enum):
 class TtsVoice:
 
     def __init__(self):
-        self.engine = None
+        self.engine = "edge"
         """参考：edge, azure, vits"""
         self.gender = None
         """参考：Male, Female"""
@@ -126,11 +126,11 @@ async def get_tts_voice(elem, conversation_context, voice_type=VoiceType.Wav) ->
 
     logger.debug(f"[TextToSpeech] 开始转换语音 - {conversation_context.session_id}")
     
-    voice = Voice(path="C:\\Users\\蔡卓悦\\Documents\\chatgpt-qq-bot\\11.wav")
+    # voice = Voice(path="C:\\Users\\蔡卓悦\\Documents\\chatgpt-qq-bot\\11.wav")
     
     logger.error("現在還挺好的啊！？")
     
-    return voice
+    # return voice
     
     if config.text_to_speech.engine == "vits":
         from utils.vits_tts import vits_api_instance

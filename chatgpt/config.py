@@ -280,7 +280,7 @@ class TextToImage(BaseModel):
 class TextToSpeech(BaseModel):
     always: bool = True
     """设置后所有的会话都会转语音再发一次"""
-    engine: str = "azure"
+    engine: str = "edge"
     """文字转语音引擎选择，当前有azure和vits"""
     default: str = "zh-CN-XiaoxiaoNeural"
     """默认设置为Azure语音音色"""
