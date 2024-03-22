@@ -126,13 +126,14 @@ async def get_tts_voice(elem, conversation_context, voice_type=VoiceType.Wav) ->
 
     logger.debug(f"[TextToSpeech] 开始转换语音 - {conversation_context.session_id}")
     
+
+    return Voice(path="C:\\Users\\蔡卓悦\\Documents\\chatgpt-qq-bot\\11.wav")
+
     from utils.czy_tts import czy_api_instance
     if await czy_api_instance.process_message(str(elem), output_file.name, voice_type.value):
         logger.debug(f"[TextToSpeech CZY] 语音转换完成 - {output_file.name} - {conversation_context.session_id}")
+        path = "C:\\Users\\蔡卓悦\\Documents\\out.wav"
         return Voice(path=output_file.name)
-
-    
-    
     
     if config.text_to_speech.engine == "vits":
         from utils.vits_tts import vits_api_instance
