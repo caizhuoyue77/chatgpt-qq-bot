@@ -1,0 +1,50 @@
+[2024-03-22 14:13:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2024-03-22 14:14:03] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2024-03-22 14:15:30] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2024-03-22 14:16:44] [WARNING]: 转换消息 [CQ:record,file=base64://77u/PCFET0NUWVBFIGh0bWw+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4KPGhlYWQ+CjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4KPHRpdGxlPldhcm5pbmc8L3RpdGxlPgo8c3R5bGU+aHRtbCxib2R5IHtjb2xvcjogIzQ0NDsgZm9udDogMTRweCBcNWZhZVw4ZjZmXDk2YzVcOWVkMSxhcmlhbCxzYW5zLXNlcmlmO30KI21haW4ge21hcmdpbjogNTBweCAwIDYwcHggMDt9CiNtYWluLm1fd2lkdGgge21hcmdpbjogODBweCAwIDcwcHggMDt9Ci5jb250YWluZXIge21hcmdpbi1sZWZ0OiBhdXRvOyBtYXJnaW4tcmlnaHQ6IGF1dG87IHdpZHRoOiAxMDA4cHg7fQouY29udGFpbmVyIC5ncmlkXzEge3dpZHRoOiAzMTJweDsgZGlzcGxheTogaW5saW5lOyBmbG9hdDogbGVmdDsgbWFyZ2luLWxlZnQ6IDEycHg7IG1hcmdpbi1yaWdodDogMTJweDt9Ci5jb250YWluZXIgLmdyaWRfMiB7d2lkdGg6IDY0OHB4O30KLmxlZnRfNDA0IHt0ZXh0LWFsaWduOiBjZW50ZXI7fQoubGVmdF80MDQgaDEudGV4dF80MDQge2ZvbnQ6IDcwcHggXDVmYWVcOGY2Zlw5NmM1XDllZDEsYXJpYWwsc2Fucy1zZXJpZjsgY29sb3I6ICM1OWI3YzI7fWgxLGgyIHtmb250LXdlaWdodDogbm9ybWFsOyBsaW5lLWhlaWdodDogMTsgcGFkZGluZy1ib3R0b206IDIzcHg7fQojY29udGVudCB7cGFkZGluZzogMTBweDsgYmFja2dyb3VuZC1jb2xvcjogI2Y1ZjdmOTt9CiNjb250ZW50IHAge21hcmdpbjogMCAwIDIwcHggMzMwcHg7fQojY29udGVudCB1bCB7bGlzdC1zdHlsZTogZGlzYzsgcGFkZGluZzogMCAwIDAgMzQwcHg7IG1hcmdpbjogMCAwIDIwcHggMDt9CiNjb250ZW50IGxpIHtmb250LXNpemU6MTNweDsgbGluZS1oZWlnaHQ6IDIwcHg7IHdpZHRoOiA2MDBweDsgd29yZC1icmVhazogYnJlYWstYWxsOyB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7fQo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5Pgo8ZGl2IGlkPSJtYWluIiBjbGFzcz0ibV93aWR0aCI+CjxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CjxkaXYgaWQ9ImNvbnRlbnQiPgo8ZGl2IGNsYXNzPSJncmlkXzEgbGVmdF80MDQiPgo8aDEgY2xhc3M9InRleHRfNDA0Ij40MDM8L2gxPgo8L2Rpdj4KPGRpdiBjbGFzcz0iZ3JpZF8yIj4KPGgyPuacrOasoeiuv+mXruW3suiiq+mYu+aWrTwvaDI+CjxwPjxzdHJvbmc+5aaC5pyJ55aR6Zeu6K+36IGU57O7572R57uc566h55CG5ZGYPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5DQVRFR09SWSAgOuWuieWFqOmakOaCozwvbGk+CjwvdWw+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4=] 到MiraiGo Element时出现错误: voice type error: text/plain; charset=utf-8. 
+[2024-03-22 14:16:44] [WARNING]: 好友消息发送失败: 消息为空. 
+[2024-03-22 14:16:44] [WARNING]: 转换消息 [CQ:record,file=base64://77u/PCFET0NUWVBFIGh0bWw+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4KPGhlYWQ+CjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4KPHRpdGxlPldhcm5pbmc8L3RpdGxlPgo8c3R5bGU+aHRtbCxib2R5IHtjb2xvcjogIzQ0NDsgZm9udDogMTRweCBcNWZhZVw4ZjZmXDk2YzVcOWVkMSxhcmlhbCxzYW5zLXNlcmlmO30KI21haW4ge21hcmdpbjogNTBweCAwIDYwcHggMDt9CiNtYWluLm1fd2lkdGgge21hcmdpbjogODBweCAwIDcwcHggMDt9Ci5jb250YWluZXIge21hcmdpbi1sZWZ0OiBhdXRvOyBtYXJnaW4tcmlnaHQ6IGF1dG87IHdpZHRoOiAxMDA4cHg7fQouY29udGFpbmVyIC5ncmlkXzEge3dpZHRoOiAzMTJweDsgZGlzcGxheTogaW5saW5lOyBmbG9hdDogbGVmdDsgbWFyZ2luLWxlZnQ6IDEycHg7IG1hcmdpbi1yaWdodDogMTJweDt9Ci5jb250YWluZXIgLmdyaWRfMiB7d2lkdGg6IDY0OHB4O30KLmxlZnRfNDA0IHt0ZXh0LWFsaWduOiBjZW50ZXI7fQoubGVmdF80MDQgaDEudGV4dF80MDQge2ZvbnQ6IDcwcHggXDVmYWVcOGY2Zlw5NmM1XDllZDEsYXJpYWwsc2Fucy1zZXJpZjsgY29sb3I6ICM1OWI3YzI7fWgxLGgyIHtmb250LXdlaWdodDogbm9ybWFsOyBsaW5lLWhlaWdodDogMTsgcGFkZGluZy1ib3R0b206IDIzcHg7fQojY29udGVudCB7cGFkZGluZzogMTBweDsgYmFja2dyb3VuZC1jb2xvcjogI2Y1ZjdmOTt9CiNjb250ZW50IHAge21hcmdpbjogMCAwIDIwcHggMzMwcHg7fQojY29udGVudCB1bCB7bGlzdC1zdHlsZTogZGlzYzsgcGFkZGluZzogMCAwIDAgMzQwcHg7IG1hcmdpbjogMCAwIDIwcHggMDt9CiNjb250ZW50IGxpIHtmb250LXNpemU6MTNweDsgbGluZS1oZWlnaHQ6IDIwcHg7IHdpZHRoOiA2MDBweDsgd29yZC1icmVhazogYnJlYWstYWxsOyB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7fQo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5Pgo8ZGl2IGlkPSJtYWluIiBjbGFzcz0ibV93aWR0aCI+CjxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CjxkaXYgaWQ9ImNvbnRlbnQiPgo8ZGl2IGNsYXNzPSJncmlkXzEgbGVmdF80MDQiPgo8aDEgY2xhc3M9InRleHRfNDA0Ij40MDM8L2gxPgo8L2Rpdj4KPGRpdiBjbGFzcz0iZ3JpZF8yIj4KPGgyPuacrOasoeiuv+mXruW3suiiq+mYu+aWrTwvaDI+CjxwPjxzdHJvbmc+5aaC5pyJ55aR6Zeu6K+36IGU57O7572R57uc566h55CG5ZGYPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5DQVRFR09SWSAgOuWuieWFqOmakOaCozwvbGk+CjwvdWw+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4=] 到MiraiGo Element时出现错误: voice type error: text/plain; charset=utf-8. 
+[2024-03-22 14:16:44] [WARNING]: 警告: 非法 Forward node 将跳过. uin: 2837864649 name: ChatGPT content count: 0 
+[2024-03-22 14:16:45] [ERROR]: 处置WS命令时发生无法恢复的异常：runtime error: index out of range [0] with length 0
+goroutine 185 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/go-cqhttp/server.(*wsConn).handleRequest.func1()
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:471 +0x46
+panic({0xd7b220, 0xc000204060})
+	runtime/panic.go:884 +0x213
+github.com/Mrs4s/MiraiGo/client/internal/highway.(*Session).nextAddr(0xca9646?)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230401072048-f8d9841755b5/client/internal/highway/highway.go:227 +0xfd
+github.com/Mrs4s/MiraiGo/client/internal/highway.(*Session).selectConn(0x2?)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230401072048-f8d9841755b5/client/internal/highway/highway.go:248 +0xe5
+github.com/Mrs4s/MiraiGo/client/internal/highway.(*Session).uploadSingle(0xc0002c43f0, {0x1b, {0xecb240, 0xc0001b8a50}, {0xc0001d0210, 0x10, 0x10}, 0xd5, {0xc0000280e0, 0x68, ...}, ...})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230401072048-f8d9841755b5/client/internal/highway/bdh.go:39 +0x68
+github.com/Mrs4s/MiraiGo/client/internal/highway.(*Session).Upload(0xc0002c43f0, {0x1b, {0xecb240, 0xc0001b8a50}, {0xc0001d0210, 0x10, 0x10}, 0xd5, {0xc0000280e0, 0x68, ...}, ...})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230401072048-f8d9841755b5/client/internal/highway/bdh.go:117 +0x425
+github.com/Mrs4s/MiraiGo/client.(*ForwardMessageBuilder).Main(0xc000635878, 0xc00023b9c8)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20230401072048-f8d9841755b5/client/multimsg.go:316 +0x5b8
+github.com/Mrs4s/go-cqhttp/coolq.(*CQBot).uploadForwardElement(0xc0004b0080, {0x5, {0xc000630050, 0x77d}, {0x0, 0x0}, 0x0, 0x50, {0x0, 0x0, ...}}, ...)
+	github.com/Mrs4s/go-cqhttp/coolq/api.go:961 +0x1e5
+github.com/Mrs4s/go-cqhttp/coolq.(*CQBot).CQSendPrivateForwardMessage(0x0?, 0x0?, {0x5, {0xc000630050, 0x77d}, {0x0, 0x0}, 0x0, 0x50, {0x0, ...}})
+	github.com/Mrs4s/go-cqhttp/coolq/api.go:1000 +0x2c5
+github.com/Mrs4s/go-cqhttp/modules/api.(*Caller).call(0xc000524000, {0xc00063000c, 0x18}, 0x127b660, {0xeccd60, 0xc0000b19f0})
+	github.com/Mrs4s/go-cqhttp/modules/api/api.go:54 +0x1ea5
+github.com/Mrs4s/go-cqhttp/modules/api.(*Caller).Call(0xc000524000, {0xc00063000c, 0x18}, 0xc000630000?, {0xeccd60, 0xc0000b19f0})
+	github.com/Mrs4s/go-cqhttp/modules/api/caller.go:35 +0xc5
+github.com/Mrs4s/go-cqhttp/server.(*wsConn).handleRequest(0xc000288030, 0x0?, {0xc000630000?, 0xc00035fc68?, 0xc00021b650?})
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:480 +0x41c
+github.com/Mrs4s/go-cqhttp/server.(*websocketClient).listenAPI.func2(0xc00020ef40?)
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:325 +0x95
+created by github.com/Mrs4s/go-cqhttp/server.(*websocketClient).listenAPI
+	github.com/Mrs4s/go-cqhttp/server/websocket.go:323 +0x1b2
+ 
+[2024-03-22 14:16:45] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54966->127.0.0.1:8566: use of closed network connection 
+[2024-03-22 14:16:47] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54966->127.0.0.1:8566: use of closed network connection 
+[2024-03-22 14:17:28] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:55000->127.0.0.1:8566: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2024-03-22 14:17:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55000->127.0.0.1:8566: use of closed network connection 
+[2024-03-22 14:17:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: dial tcp 127.0.0.1:8566: connectex: No connection could be made because the target machine actively refused it. 
+[2024-03-22 14:17:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: dial tcp 127.0.0.1:8566: connectex: No connection could be made because the target machine actively refused it. 
+[2024-03-22 14:17:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: dial tcp 127.0.0.1:8566: connectex: No connection could be made because the target machine actively refused it. 
+[2024-03-22 14:17:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: dial tcp 127.0.0.1:8566: connectex: No connection could be made because the target machine actively refused it. 
+[2024-03-22 14:17:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: dial tcp 127.0.0.1:8566: connectex: No connection could be made because the target machine actively refused it. 
+[2024-03-22 14:18:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: dial tcp 127.0.0.1:8566: connectex: No connection could be made because the target machine actively refused it. 
