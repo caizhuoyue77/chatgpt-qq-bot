@@ -1,0 +1,9 @@
+[2024-03-18 09:43:03] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.88.10.128:53521->14.22.9.53:14000: wsarecv: An established connection was aborted by the software in your host machine. 
+[2024-03-18 09:43:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.107.174:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2024-03-18 09:43:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.107.174:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2024-03-18 09:43:03] [WARNING]: Bot已离线: connection dropped by server. 
+[2024-03-18 09:43:06] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2024-03-18 09:43:09] [WARNING]: 尝试重连... 
+[2024-03-18 09:43:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.7.253.214:443: connectex: A socket operation was attempted to an unreachable host. 
+[2024-03-18 09:43:09] [WARNING]: 快速重连失败: dial tcp error: dial tcp 49.7.253.214:443: connectex: A socket operation was attempted to an unreachable host. 
+[2024-03-18 09:43:09] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
