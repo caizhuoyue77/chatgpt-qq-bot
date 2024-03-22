@@ -128,10 +128,6 @@ async def get_tts_voice(elem, conversation_context, voice_type=VoiceType.Wav) ->
     
     voice = Voice(path="C:\\Users\\蔡卓悦\\Documents\\chatgpt-qq-bot\\11.wav")
     
-    if voice_type == VoiceType.Silk:
-        voice = Voice(data_bytes=await encode_to_silk(await voice.get_bytes()))
-
-
     logger.error("現在還挺好的啊！？")
     
     return voice
